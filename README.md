@@ -1,2 +1,2 @@
 # Best TV Shows
-![Preview](./images/preview)
+![Preview](./images/preview.png)
